@@ -1,0 +1,790 @@
+2014-04-22 14:45:41,741 INFO  [Log] **************************************************************************************** 
+2014-04-22 14:45:41,742 INFO  [Log] **************************************************************************************** 
+2014-04-22 14:45:41,742 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-04-22 14:45:41,742 INFO  [Log] **************************************************************************************** 
+2014-04-22 14:45:41,743 INFO  [Log] **************************************************************************************** 
+2014-04-22 14:45:42,302 INFO  [Log] Excel sheet opened 
+2014-04-22 14:45:42,302 INFO  [Log] Total number of Row used return as < 2 >. 
+2014-04-22 14:45:59,257 INFO  [Log] New driver instantiated 
+2014-04-22 14:45:59,358 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-04-22 14:46:12,211 INFO  [Log] Web application launched successfully 
+2014-04-22 14:46:12,488 INFO  [Log] My Account link is found on the Home Page 
+2014-04-22 14:46:12,588 INFO  [Log] Click action is perfromed on My Account link 
+2014-04-22 14:46:17,885 INFO  [Log] Username text box is found on the Login Page 
+2014-04-22 14:46:17,956 INFO  [Log] testuser_1 is entered in UserName text box 
+2014-04-22 14:46:17,977 INFO  [Log] Password text box is found on the Login page 
+2014-04-22 14:46:18,039 INFO  [Log] Test@123 is entered in Password text box 
+2014-04-22 14:46:18,055 INFO  [Log] Submit button is found on the Login page 
+2014-04-22 14:46:18,715 INFO  [Log] Click action is performed on Submit button 
+2014-04-22 14:46:31,327 INFO  [Log] Log Out link is found on the Home Page 
+2014-04-22 14:46:31,574 INFO  [Log] Product category link is found under Top Navigation 
+2014-04-22 14:46:31,927 INFO  [Log] Accessories link is found under Product Category 
+2014-04-22 14:46:32,006 INFO  [Log] Click action is performed on the selected Product Type 
+2014-04-22 14:46:32,007 INFO  [Log] Product Type Accessories is selected from the Top menu 
+2014-04-22 14:46:37,285 INFO  [Log] Add to Cart button is found for Product 2 
+2014-04-22 14:46:37,458 INFO  [Log] Product 2 is selected from the Product listing page 
+2014-04-22 14:46:38,517 INFO  [Log] Go to Cart button is found on the Cart Pop Up window 
+2014-04-22 14:46:41,771 INFO  [Log] Product Name for purchased product is found on the Check Out Page 
+2014-04-22 14:46:41,824 INFO  [Log] Product Price for purchased product is found on the Check Out Page 
+2014-04-22 14:46:41,860 INFO  [Log] Continue button is found on the Check Out Page 
+2014-04-22 14:46:41,957 INFO  [Log] Email text box on Payment Details page is found. 
+2014-04-22 14:46:43,029 INFO  [Log] Email text box on Payment Details page is found. 
+2014-04-22 14:46:43,108 INFO  [Log] tooolsqa@gmail.com is entered as First Name on the Payment detail page 
+2014-04-22 14:46:43,126 INFO  [Log] First Name text box on Payment Details page is found. 
+2014-04-22 14:46:43,201 INFO  [Log] First Name text box on Payment Details page is found. 
+2014-04-22 14:46:43,356 INFO  [Log] Lakshay is entered as First Name on the Payment detail page 
+2014-04-22 14:46:43,366 INFO  [Log] Last Name text box on Payment Details page is found. 
+2014-04-22 14:46:43,453 INFO  [Log] Last Name text box on Payment Details page is found. 
+2014-04-22 14:46:43,560 INFO  [Log] Sharma is entered as Last Name on the Payment detail page 
+2014-04-22 14:46:43,568 INFO  [Log] Address text box on Payment Details page is found. 
+2014-04-22 14:46:43,756 INFO  [Log] Address text box on Payment Details page is found. 
+2014-04-22 14:46:44,151 INFO  [Log] 35, Marconi House, Walker Road is entered as Address on the Payment detail page 
+2014-04-22 14:46:44,162 INFO  [Log] City text box on Payment Details page is found. 
+2014-04-22 14:46:44,244 INFO  [Log] City text box on Payment Details page is found. 
+2014-04-22 14:46:44,393 INFO  [Log] Newcastle is entered as City on the Payment detail page 
+2014-04-22 14:46:44,509 INFO  [Log] Country dropdown on Payment Details page is found. 
+2014-04-22 14:46:44,570 INFO  [Log] United Kingdom is Selected as Country on the Payment detail page 
+2014-04-22 14:46:44,633 INFO  [Log] Phone text box on Payment Details page is found. 
+2014-04-22 14:46:44,740 INFO  [Log] Phone text box on Payment Details page is found. 
+2014-04-22 14:46:44,868 INFO  [Log] 07777777777 is entered as Phone on the Payment detail page 
+2014-04-22 14:46:44,876 INFO  [Log] Same as Billing address check box on Payment Details page is found. 
+2014-04-22 14:46:44,890 INFO  [Log] Purchase button on Payment Details page is found. 
+2014-04-22 14:46:47,948 INFO  [Log] Click action is performed on Purchase button on the Payment detail page 
+2014-04-22 14:46:47,959 INFO  [Log] Product name is found on the Confirmation Page 
+2014-04-22 14:46:47,985 INFO  [Log] Product price is found on the Confirmation Page 
+2014-04-22 14:46:48,185 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-04-22 14:46:48,185 INFO  [Log] X 
+2014-04-22 14:46:48,185 INFO  [Log] X 
+2014-04-22 14:46:48,186 INFO  [Log] X 
+2014-04-22 14:46:48,186 INFO  [Log] X 
+2014-04-22 17:32:40,212 INFO  [Log] New driver instantiated 
+2014-04-22 17:32:40,227 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-04-22 17:32:58,881 INFO  [Log] Web application launched 
+2014-04-22 17:32:59,000 INFO  [Log] Click action performed on My Account link 
+2014-04-22 17:35:15,781 INFO  [Log] New driver instantiated 
+2014-04-22 17:35:15,799 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-04-22 17:35:33,430 INFO  [Log] Web application launched 
+2014-04-22 17:35:33,539 INFO  [Log] Click action performed on My Account link 
+2014-04-22 17:47:58,080 INFO  [Log] New driver instantiated 
+2014-04-22 17:47:58,101 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-04-22 17:48:15,116 INFO  [Log] Web application launched 
+2014-04-22 17:48:36,220 INFO  [Log] Click action performed on My Account link 
+2014-04-22 17:48:37,787 INFO  [Log] Username entered in the Username text box 
+2014-04-22 17:48:37,877 INFO  [Log] Password entered in the Password text box 
+2014-04-22 17:48:38,576 INFO  [Log] Click action performed on Submit button 
+2014-04-22 17:48:45,875 INFO  [Log] Click action performed on Log out link 
+2014-04-22 17:48:46,110 INFO  [Log] Browser closed 
+2017-05-26 17:34:22,766 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:34:22,766 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:34:22,767 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-26 17:34:22,767 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:34:22,767 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:36:26,065 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:36:26,066 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:36:26,066 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-26 17:36:26,066 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:36:26,066 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:38:25,928 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:38:25,928 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:38:25,929 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-26 17:38:25,929 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:38:25,929 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:39:49,052 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:39:49,053 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:39:49,053 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-26 17:39:49,053 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:39:49,053 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:39:49,446 INFO  [Log] Excel sheet opened 
+2017-05-26 17:39:49,446 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-05-26 17:39:54,827 INFO  [Log] New driver instantiated 
+2017-05-26 17:39:54,835 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-05-26 17:39:56,497 INFO  [Log] Web application launched successfully 
+2017-05-26 17:40:16,553 ERROR [Log] My Acocunt link is not found on the Home Page 
+2017-05-26 17:40:16,671 ERROR [Log] Unable to locate element: .//*[@id='account']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.MOjxkSa9n4gN, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=9756.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 79363801-904e-4b08-a4b1-5468a29aa677
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2017-05-26 17:40:16,676 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-26 17:40:16,677 INFO  [Log] X 
+2017-05-26 17:40:16,677 INFO  [Log] X 
+2017-05-26 17:40:16,677 INFO  [Log] X 
+2017-05-26 17:40:16,677 INFO  [Log] X 
+2017-05-26 17:44:20,696 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:44:20,696 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:44:20,696 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-26 17:44:20,696 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:44:20,696 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:44:21,075 INFO  [Log] Excel sheet opened 
+2017-05-26 17:44:21,075 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-05-26 17:44:24,368 INFO  [Log] New driver instantiated 
+2017-05-26 17:44:24,376 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-05-26 17:44:25,133 INFO  [Log] Web application launched successfully 
+2017-05-26 17:44:45,164 ERROR [Log] My Acocunt link is not found on the Home Page 
+2017-05-26 17:44:45,275 ERROR [Log] Unable to locate element: .//*[@id='account']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.daq4EUJQLmZW, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=9320.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: f18fcd0e-c2ad-475f-ac3c-d17c1c2ab4cf
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2017-05-26 17:44:45,278 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-26 17:44:45,278 INFO  [Log] X 
+2017-05-26 17:44:45,278 INFO  [Log] X 
+2017-05-26 17:44:45,278 INFO  [Log] X 
+2017-05-26 17:44:45,278 INFO  [Log] X 
+2017-05-26 17:45:03,645 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:45:03,645 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:45:03,646 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-26 17:45:03,646 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:45:03,646 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:45:04,020 INFO  [Log] Excel sheet opened 
+2017-05-26 17:45:04,020 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-05-26 17:45:07,307 INFO  [Log] New driver instantiated 
+2017-05-26 17:45:07,314 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-05-26 17:45:07,590 INFO  [Log] Web application launched successfully 
+2017-05-26 17:45:27,651 ERROR [Log] My Acocunt link is not found on the Home Page 
+2017-05-26 17:45:27,765 ERROR [Log] Unable to locate element: .//*[@id='account']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.1SC81nwNf6IC, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=4844.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: c764676d-3d98-4e59-a3f7-6daa46344cdd
+*** Element info: {Using=xpath, value=.//*[@id='account']/a} 
+2017-05-26 17:45:27,769 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-26 17:45:27,769 INFO  [Log] X 
+2017-05-26 17:45:27,770 INFO  [Log] X 
+2017-05-26 17:45:27,770 INFO  [Log] X 
+2017-05-26 17:45:27,770 INFO  [Log] X 
+2017-05-26 17:48:34,909 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:48:34,909 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:48:34,909 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-26 17:48:34,909 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:48:34,909 INFO  [Log] **************************************************************************************** 
+2017-05-26 17:48:35,319 INFO  [Log] Excel sheet opened 
+2017-05-26 17:48:35,319 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-05-26 17:48:38,651 INFO  [Log] New driver instantiated 
+2017-05-26 17:48:38,659 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-05-26 17:48:52,931 INFO  [Log] Web application launched successfully 
+2017-05-26 17:48:52,958 INFO  [Log] My Account link is found on the Home Page 
+2017-05-26 17:48:53,006 INFO  [Log] Click action is perfromed on My Account link 
+2017-05-26 17:48:58,146 INFO  [Log] Username text box is found on the Login Page 
+2017-05-26 17:48:58,339 INFO  [Log] testuser_1 is entered in UserName text box 
+2017-05-26 17:48:58,357 INFO  [Log] Password text box is found on the Login page 
+2017-05-26 17:48:58,391 INFO  [Log] Test@123 is entered in Password text box 
+2017-05-26 17:48:58,398 INFO  [Log] Submit button is found on the Login page 
+2017-05-26 17:48:58,483 INFO  [Log] Click action is performed on Submit button 
+2017-05-26 17:49:18,532 ERROR [Log] Log Out link is not found on the Home Page 
+2017-05-26 17:49:18,751 ERROR [Log] Unable to locate element: #account_logout
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.Vlaa5xjMxLed, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=11964.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 228ba10d-2d89-4909-bc69-43a29b6c36e0
+*** Element info: {Using=id, value=account_logout} 
+2017-05-26 17:49:18,754 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-26 17:49:18,754 INFO  [Log] X 
+2017-05-26 17:49:18,754 INFO  [Log] X 
+2017-05-26 17:49:18,754 INFO  [Log] X 
+2017-05-26 17:49:18,754 INFO  [Log] X 
+2017-05-30 14:39:12,582 INFO  [Log] **************************************************************************************** 
+2017-05-30 14:39:12,583 INFO  [Log] **************************************************************************************** 
+2017-05-30 14:39:12,583 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-30 14:39:12,583 INFO  [Log] **************************************************************************************** 
+2017-05-30 14:39:12,583 INFO  [Log] **************************************************************************************** 
+2017-05-30 14:41:20,865 INFO  [Log] **************************************************************************************** 
+2017-05-30 14:41:20,866 INFO  [Log] **************************************************************************************** 
+2017-05-30 14:41:20,866 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-30 14:41:20,866 INFO  [Log] **************************************************************************************** 
+2017-05-30 14:41:20,866 INFO  [Log] **************************************************************************************** 
+2017-05-30 18:54:11,653 INFO  [Log] **************************************************************************************** 
+2017-05-30 18:54:11,653 INFO  [Log] **************************************************************************************** 
+2017-05-30 18:54:11,653 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-30 18:54:11,653 INFO  [Log] **************************************************************************************** 
+2017-05-30 18:54:11,653 INFO  [Log] **************************************************************************************** 
+2017-05-30 18:57:05,207 INFO  [Log] **************************************************************************************** 
+2017-05-30 18:57:05,207 INFO  [Log] **************************************************************************************** 
+2017-05-30 18:57:05,207 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-30 18:57:05,208 INFO  [Log] **************************************************************************************** 
+2017-05-30 18:57:05,208 INFO  [Log] **************************************************************************************** 
+2017-05-30 18:57:05,599 INFO  [Log] Excel sheet opened 
+2017-05-30 18:57:05,599 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-05-30 18:57:11,126 INFO  [Log] New driver instantiated 
+2017-05-30 18:57:11,135 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-05-30 18:57:17,102 INFO  [Log] Web application launched successfully 
+2017-05-30 18:57:17,120 INFO  [Log] My Account link is found on the Home Page 
+2017-05-30 18:57:17,217 INFO  [Log] Click action is perfromed on My Account link 
+2017-05-30 18:57:20,633 INFO  [Log] Username text box is found on the Login Page 
+2017-05-30 18:57:20,691 INFO  [Log] testuser_1 is entered in UserName text box 
+2017-05-30 18:57:20,698 INFO  [Log] Password text box is found on the Login page 
+2017-05-30 18:57:20,732 INFO  [Log] Test@123 is entered in Password text box 
+2017-05-30 18:57:20,742 INFO  [Log] Submit button is found on the Login page 
+2017-05-30 18:57:20,886 INFO  [Log] Click action is performed on Submit button 
+2017-05-30 18:57:39,580 ERROR [Log] Log Out link is not found on the Home Page 
+2017-05-30 18:57:39,668 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : Tried to run command without establishing a connection
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.U000EJ8pIaZO, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=4768.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: ffc42be9-9e32-40b9-bbc4-d20d15ca46f4 
+2017-05-30 18:57:39,671 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-30 18:57:39,671 INFO  [Log] X 
+2017-05-30 18:57:39,671 INFO  [Log] X 
+2017-05-30 18:57:39,671 INFO  [Log] X 
+2017-05-30 18:57:39,671 INFO  [Log] X 
+2017-05-30 18:59:26,682 INFO  [Log] **************************************************************************************** 
+2017-05-30 18:59:26,683 INFO  [Log] **************************************************************************************** 
+2017-05-30 18:59:26,683 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-30 18:59:26,683 INFO  [Log] **************************************************************************************** 
+2017-05-30 18:59:26,683 INFO  [Log] **************************************************************************************** 
+2017-05-30 18:59:27,050 INFO  [Log] Excel sheet opened 
+2017-05-30 18:59:27,050 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-05-30 18:59:30,341 INFO  [Log] New driver instantiated 
+2017-05-30 18:59:30,349 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-05-30 18:59:36,541 INFO  [Log] Web application launched successfully 
+2017-05-30 18:59:36,559 INFO  [Log] My Account link is found on the Home Page 
+2017-05-30 18:59:36,644 INFO  [Log] Click action is perfromed on My Account link 
+2017-05-30 18:59:40,028 INFO  [Log] Username text box is found on the Login Page 
+2017-05-30 18:59:40,092 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-05-30 18:59:40,101 INFO  [Log] Password text box is found on the Login page 
+2017-05-30 18:59:40,133 INFO  [Log] Amazon12$ is entered in Password text box 
+2017-05-30 18:59:40,140 INFO  [Log] Submit button is found on the Login page 
+2017-05-30 18:59:40,224 INFO  [Log] Click action is performed on Submit button 
+2017-05-30 19:00:00,286 ERROR [Log] Log Out link is not found on the Home Page 
+2017-05-30 19:00:00,722 ERROR [Log] Unable to locate element: #account_logout
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.K9DXSYH8mdvT, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=4356.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: b1a9c0db-24ae-44e8-8d8d-bf98412663c9
+*** Element info: {Using=id, value=account_logout} 
+2017-05-30 19:00:00,733 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-30 19:00:00,733 INFO  [Log] X 
+2017-05-30 19:00:00,733 INFO  [Log] X 
+2017-05-30 19:00:00,733 INFO  [Log] X 
+2017-05-30 19:00:00,733 INFO  [Log] X 
+2017-05-30 19:04:12,549 INFO  [Log] **************************************************************************************** 
+2017-05-30 19:04:12,549 INFO  [Log] **************************************************************************************** 
+2017-05-30 19:04:12,549 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-30 19:04:12,549 INFO  [Log] **************************************************************************************** 
+2017-05-30 19:04:12,549 INFO  [Log] **************************************************************************************** 
+2017-05-30 19:04:12,941 INFO  [Log] Excel sheet opened 
+2017-05-30 19:04:12,941 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-05-30 19:04:16,249 INFO  [Log] New driver instantiated 
+2017-05-30 19:04:16,257 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-05-30 19:04:22,619 INFO  [Log] Web application launched successfully 
+2017-05-30 19:04:23,109 INFO  [Log] My Account link is found on the Home Page 
+2017-05-30 19:04:23,211 INFO  [Log] Click action is perfromed on My Account link 
+2017-05-30 19:04:26,565 INFO  [Log] Username text box is found on the Login Page 
+2017-05-30 19:04:26,657 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-05-30 19:04:26,670 INFO  [Log] Password text box is found on the Login page 
+2017-05-30 19:04:26,698 INFO  [Log] Amazon12$ is entered in Password text box 
+2017-05-30 19:04:26,704 INFO  [Log] Submit button is found on the Login page 
+2017-05-30 19:04:26,807 INFO  [Log] Click action is performed on Submit button 
+2017-05-30 19:04:33,682 INFO  [Log] Log Out link is found on the Home Page 
+2017-05-30 19:04:44,681 ERROR [Log] Expected condition failed: waiting for element to be clickable: [[FirefoxDriver: firefox on ANY (fefb8a33-196d-4e68-b486-1e50ebd0e6f9)] -> id: nav-item-signout] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.2CjVhjgzlCVG, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=5012.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: fefb8a33-196d-4e68-b486-1e50ebd0e6f9 
+2017-05-30 19:04:44,684 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-30 19:04:44,684 INFO  [Log] X 
+2017-05-30 19:04:44,684 INFO  [Log] X 
+2017-05-30 19:04:44,684 INFO  [Log] X 
+2017-05-30 19:04:44,684 INFO  [Log] X 
+2017-05-30 19:05:51,809 INFO  [Log] **************************************************************************************** 
+2017-05-30 19:05:51,810 INFO  [Log] **************************************************************************************** 
+2017-05-30 19:05:51,810 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-30 19:05:51,810 INFO  [Log] **************************************************************************************** 
+2017-05-30 19:05:51,810 INFO  [Log] **************************************************************************************** 
+2017-05-30 19:05:52,185 INFO  [Log] Excel sheet opened 
+2017-05-30 19:05:52,185 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-05-30 19:05:55,493 INFO  [Log] New driver instantiated 
+2017-05-30 19:05:55,502 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-05-30 19:06:01,955 INFO  [Log] Web application launched successfully 
+2017-05-30 19:06:02,441 INFO  [Log] My Account link is found on the Home Page 
+2017-05-30 19:06:02,535 INFO  [Log] Click action is perfromed on My Account link 
+2017-05-30 19:06:05,766 INFO  [Log] Username text box is found on the Login Page 
+2017-05-30 19:06:05,834 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-05-30 19:06:05,846 INFO  [Log] Password text box is found on the Login page 
+2017-05-30 19:06:05,874 INFO  [Log] Amazon12$ is entered in Password text box 
+2017-05-30 19:06:05,880 INFO  [Log] Submit button is found on the Login page 
+2017-05-30 19:06:05,974 INFO  [Log] Click action is performed on Submit button 
+2017-05-30 19:06:12,878 INFO  [Log] Log Out link is found on the Home Page 
+2017-05-30 19:06:23,814 ERROR [Log] Expected condition failed: waiting for element to be clickable: [[FirefoxDriver: firefox on ANY (e1b2a177-f139-4f5f-84cb-f8edf1953b58)] -> id: nav-item-signout] (tried for 10 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.CTArrSunv3aU, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=10064.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: e1b2a177-f139-4f5f-84cb-f8edf1953b58 
+2017-05-30 19:06:23,817 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-30 19:06:23,817 INFO  [Log] X 
+2017-05-30 19:06:23,817 INFO  [Log] X 
+2017-05-30 19:06:23,817 INFO  [Log] X 
+2017-05-30 19:06:23,817 INFO  [Log] X 
+2017-05-30 20:01:32,303 INFO  [Log] **************************************************************************************** 
+2017-05-30 20:01:32,304 INFO  [Log] **************************************************************************************** 
+2017-05-30 20:01:32,304 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-30 20:01:32,304 INFO  [Log] **************************************************************************************** 
+2017-05-30 20:01:32,304 INFO  [Log] **************************************************************************************** 
+2017-05-30 20:01:32,709 INFO  [Log] Excel sheet opened 
+2017-05-30 20:01:32,710 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-05-30 20:01:38,178 INFO  [Log] New driver instantiated 
+2017-05-30 20:01:38,186 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-05-30 20:01:38,681 ERROR [Log] Class Utils | Method OpenBrowser | Exception desc : Failed to decode response from marionette
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.WfenCs3r2aAX, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=11692.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 8276bb1e-08aa-4375-94ee-b49a52391810 
+2017-05-30 20:01:51,850 INFO  [Log] **************************************************************************************** 
+2017-05-30 20:01:51,850 INFO  [Log] **************************************************************************************** 
+2017-05-30 20:01:51,850 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-30 20:01:51,850 INFO  [Log] **************************************************************************************** 
+2017-05-30 20:01:51,850 INFO  [Log] **************************************************************************************** 
+2017-05-30 20:01:52,222 INFO  [Log] Excel sheet opened 
+2017-05-30 20:01:52,222 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-05-30 20:01:55,525 INFO  [Log] New driver instantiated 
+2017-05-30 20:01:55,533 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-05-30 20:02:02,067 INFO  [Log] Web application launched successfully 
+2017-05-30 20:02:02,566 INFO  [Log] My Account link is found on the Home Page 
+2017-05-30 20:02:02,679 INFO  [Log] Click action is perfromed on My Account link 
+2017-05-30 20:02:06,032 INFO  [Log] Username text box is found on the Login Page 
+2017-05-30 20:02:06,105 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-05-30 20:02:06,112 INFO  [Log] Password text box is found on the Login page 
+2017-05-30 20:02:06,147 INFO  [Log] Amazon12$ is entered in Password text box 
+2017-05-30 20:02:06,158 INFO  [Log] Submit button is found on the Login page 
+2017-05-30 20:02:06,240 INFO  [Log] Click action is performed on Submit button 
+2017-05-30 20:02:26,270 ERROR [Log] Log Out link is not found on the Home Page 
+2017-05-30 20:02:26,858 ERROR [Log] Unable to locate element: nav-hidden-aria
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.lWLqFBKrNxmo, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=10188.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: dbf68cb7-9277-46fc-8d89-6d3aa026de98
+*** Element info: {Using=css selector, value=nav-hidden-aria} 
+2017-05-30 20:02:26,862 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-30 20:02:26,862 INFO  [Log] X 
+2017-05-30 20:02:26,862 INFO  [Log] X 
+2017-05-30 20:02:26,862 INFO  [Log] X 
+2017-05-30 20:02:26,862 INFO  [Log] X 
+2017-05-31 14:52:13,830 INFO  [Log] **************************************************************************************** 
+2017-05-31 14:52:13,830 INFO  [Log] **************************************************************************************** 
+2017-05-31 14:52:13,830 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-31 14:52:13,830 INFO  [Log] **************************************************************************************** 
+2017-05-31 14:52:13,830 INFO  [Log] **************************************************************************************** 
+2017-05-31 14:52:14,220 INFO  [Log] Excel sheet opened 
+2017-05-31 14:52:14,221 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-05-31 14:52:17,510 INFO  [Log] New driver instantiated 
+2017-05-31 14:52:17,520 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-05-31 14:52:23,217 INFO  [Log] Web application launched successfully 
+2017-05-31 14:52:23,717 INFO  [Log] My Account link is found on the Home Page 
+2017-05-31 14:52:23,824 INFO  [Log] Click action is perfromed on My Account link 
+2017-05-31 14:52:27,556 INFO  [Log] Username text box is found on the Login Page 
+2017-05-31 14:52:27,634 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-05-31 14:52:27,640 INFO  [Log] Password text box is found on the Login page 
+2017-05-31 14:52:27,678 INFO  [Log] Amazon12$ is entered in Password text box 
+2017-05-31 14:52:27,688 INFO  [Log] Submit button is found on the Login page 
+2017-05-31 14:52:27,777 INFO  [Log] Click action is performed on Submit button 
+2017-05-31 14:52:47,823 ERROR [Log] Log Out link is not found on the Home Page 
+2017-05-31 14:52:48,386 ERROR [Log] Unable to locate element: nav-hidden-aria
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.pfmGAepNEVqM, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=9468.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 5a9c70e6-045d-4183-8aab-f5eef71e15a2
+*** Element info: {Using=css selector, value=nav-hidden-aria} 
+2017-05-31 14:52:48,390 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-05-31 14:52:48,390 INFO  [Log] X 
+2017-05-31 14:52:48,390 INFO  [Log] X 
+2017-05-31 14:52:48,390 INFO  [Log] X 
+2017-05-31 14:52:48,390 INFO  [Log] X 
+2017-06-01 13:03:53,711 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:03:53,712 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:03:53,712 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-01 13:03:53,712 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:03:53,712 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:03:54,186 INFO  [Log] Excel sheet opened 
+2017-06-01 13:03:54,186 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-06-01 13:04:01,011 INFO  [Log] New driver instantiated 
+2017-06-01 13:04:01,021 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-01 13:04:03,864 INFO  [Log] Web application launched successfully 
+2017-06-01 13:04:24,311 ERROR [Log] My Acocunt link is not found on the Home Page 
+2017-06-01 13:04:24,539 ERROR [Log] Unable to locate element: .masterbar__item\ masterbar__item\-me\ is\-active
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.YbJ71EqvuT0S, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=7280.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: c0def579-fd1f-4eb8-b1e7-e190288b1037
+*** Element info: {Using=class name, value=masterbar__item masterbar__item-me is-active} 
+2017-06-01 13:04:24,543 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-01 13:04:24,543 INFO  [Log] X 
+2017-06-01 13:04:24,543 INFO  [Log] X 
+2017-06-01 13:04:24,543 INFO  [Log] X 
+2017-06-01 13:04:24,543 INFO  [Log] X 
+2017-06-01 13:08:45,873 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:08:45,874 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:08:45,874 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-01 13:08:45,874 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:08:45,874 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:08:46,264 INFO  [Log] Excel sheet opened 
+2017-06-01 13:08:46,264 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-06-01 13:08:49,584 INFO  [Log] New driver instantiated 
+2017-06-01 13:08:49,594 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-01 13:08:52,446 INFO  [Log] Web application launched successfully 
+2017-06-01 13:08:52,850 INFO  [Log] Username text box is found on the Login Page 
+2017-06-01 13:08:52,909 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-06-01 13:08:52,915 INFO  [Log] Password text box is found on the Login page 
+2017-06-01 13:08:52,943 INFO  [Log] Wordpress12$ is entered in Password text box 
+2017-06-01 13:08:52,949 INFO  [Log] Submit button is found on the Login page 
+2017-06-01 13:08:53,034 INFO  [Log] Click action is performed on Submit button 
+2017-06-01 13:09:13,072 ERROR [Log] Log Out link is not found on the Home Page 
+2017-06-01 13:09:13,293 ERROR [Log] Unable to locate element: .button\ me\-sidebar__signout\-button\ is\-compact
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.iN8Hqz8FdUxN, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=11228.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: e2b722c9-a519-403c-99d1-b11b815cdd5f
+*** Element info: {Using=class name, value=button me-sidebar__signout-button is-compact} 
+2017-06-01 13:09:13,296 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-01 13:09:13,296 INFO  [Log] X 
+2017-06-01 13:09:13,296 INFO  [Log] X 
+2017-06-01 13:09:13,296 INFO  [Log] X 
+2017-06-01 13:09:13,297 INFO  [Log] X 
+2017-06-01 13:35:55,209 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:35:55,210 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:35:55,210 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-01 13:35:55,210 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:35:55,210 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:35:55,643 INFO  [Log] Excel sheet opened 
+2017-06-01 13:35:55,644 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-06-01 13:36:01,208 INFO  [Log] New driver instantiated 
+2017-06-01 13:36:01,217 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-01 13:36:03,963 INFO  [Log] Web application launched successfully 
+2017-06-01 13:36:04,377 INFO  [Log] Username text box is found on the Login Page 
+2017-06-01 13:36:04,433 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-06-01 13:36:04,440 INFO  [Log] Password text box is found on the Login page 
+2017-06-01 13:36:04,467 INFO  [Log] Wordpress12$ is entered in Password text box 
+2017-06-01 13:36:04,473 INFO  [Log] Submit button is found on the Login page 
+2017-06-01 13:36:04,552 INFO  [Log] Click action is performed on Submit button 
+2017-06-01 13:36:24,589 ERROR [Log] Log Out link is not found on the Home Page 
+2017-06-01 13:36:24,810 ERROR [Log] Unable to locate element: .button\ me\-sidebar__signout\-button\ is\-compact
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.9U4C9TSLRa4E, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=8248.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: eb6cca59-4ba5-42a7-8f56-579c1869ed88
+*** Element info: {Using=class name, value=button me-sidebar__signout-button is-compact} 
+2017-06-01 13:36:24,813 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-01 13:36:24,813 INFO  [Log] X 
+2017-06-01 13:36:24,813 INFO  [Log] X 
+2017-06-01 13:36:24,813 INFO  [Log] X 
+2017-06-01 13:36:24,813 INFO  [Log] X 
+2017-06-01 13:37:10,679 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:37:10,679 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:37:10,679 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-01 13:37:10,679 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:37:10,679 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:37:11,110 INFO  [Log] Excel sheet opened 
+2017-06-01 13:37:11,110 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-06-01 13:37:14,485 INFO  [Log] New driver instantiated 
+2017-06-01 13:37:14,494 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-01 13:37:16,888 INFO  [Log] Web application launched successfully 
+2017-06-01 13:37:17,297 INFO  [Log] Username text box is found on the Login Page 
+2017-06-01 13:37:17,394 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-06-01 13:37:17,405 INFO  [Log] Password text box is found on the Login page 
+2017-06-01 13:37:17,435 INFO  [Log] Wordpress12$ is entered in Password text box 
+2017-06-01 13:37:17,441 INFO  [Log] Submit button is found on the Login page 
+2017-06-01 13:37:17,535 INFO  [Log] Click action is performed on Submit button 
+2017-06-01 13:37:37,558 ERROR [Log] Log Out link is not found on the Home Page 
+2017-06-01 13:37:38,123 ERROR [Log] Unable to locate element: .button\ me\-sidebar__signout\-button
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.qA4Terv7oTAf, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=11320.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: dbc16a07-fc95-450f-bc68-42fbfb351527
+*** Element info: {Using=class name, value=button me-sidebar__signout-button} 
+2017-06-01 13:37:38,127 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-01 13:37:38,127 INFO  [Log] X 
+2017-06-01 13:37:38,127 INFO  [Log] X 
+2017-06-01 13:37:38,127 INFO  [Log] X 
+2017-06-01 13:37:38,127 INFO  [Log] X 
+2017-06-01 13:38:56,296 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:38:56,296 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:38:56,297 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-01 13:38:56,297 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:38:56,297 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:38:56,702 INFO  [Log] Excel sheet opened 
+2017-06-01 13:38:56,702 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-06-01 13:39:00,108 INFO  [Log] New driver instantiated 
+2017-06-01 13:39:00,117 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-01 13:39:02,875 INFO  [Log] Web application launched successfully 
+2017-06-01 13:39:03,305 INFO  [Log] Username text box is found on the Login Page 
+2017-06-01 13:39:03,358 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-06-01 13:39:03,366 INFO  [Log] Password text box is found on the Login page 
+2017-06-01 13:39:03,392 INFO  [Log] Wordpress12$ is entered in Password text box 
+2017-06-01 13:39:03,399 INFO  [Log] Submit button is found on the Login page 
+2017-06-01 13:39:03,486 INFO  [Log] Click action is performed on Submit button 
+2017-06-01 13:39:23,522 ERROR [Log] Log Out link is not found on the Home Page 
+2017-06-01 13:39:23,767 ERROR [Log] Unable to locate element: .me\-sidebar__signout\-button
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.bY8v9s5fSoxz, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=11096.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 05691991-d617-448c-88b6-d731ffb0d23e
+*** Element info: {Using=class name, value=me-sidebar__signout-button} 
+2017-06-01 13:39:23,771 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-01 13:39:23,771 INFO  [Log] X 
+2017-06-01 13:39:23,771 INFO  [Log] X 
+2017-06-01 13:39:23,771 INFO  [Log] X 
+2017-06-01 13:39:23,771 INFO  [Log] X 
+2017-06-01 13:44:29,642 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:44:29,643 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:44:29,643 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-01 13:44:29,643 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:44:29,643 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:44:30,048 INFO  [Log] Excel sheet opened 
+2017-06-01 13:44:30,048 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-06-01 13:44:33,376 INFO  [Log] New driver instantiated 
+2017-06-01 13:44:33,385 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-01 13:44:35,934 INFO  [Log] Web application launched successfully 
+2017-06-01 13:44:36,355 INFO  [Log] Username text box is found on the Login Page 
+2017-06-01 13:44:36,428 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-06-01 13:44:36,437 INFO  [Log] Password text box is found on the Login page 
+2017-06-01 13:44:36,464 INFO  [Log] Wordpress12$ is entered in Password text box 
+2017-06-01 13:44:36,472 INFO  [Log] Submit button is found on the Login page 
+2017-06-01 13:44:36,558 INFO  [Log] Click action is performed on Submit button 
+2017-06-01 13:44:56,593 ERROR [Log] My Acocunt link is not found on the Home Page 
+2017-06-01 13:44:56,831 ERROR [Log] Unable to locate element: .masterbar__item\ masterbar__item\-me
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.HwSEhNIKnucW, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=6792.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 24113ae6-2c47-4669-a30e-6f6e52dc097c
+*** Element info: {Using=class name, value=masterbar__item masterbar__item-me} 
+2017-06-01 13:44:56,834 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-01 13:44:56,834 INFO  [Log] X 
+2017-06-01 13:44:56,834 INFO  [Log] X 
+2017-06-01 13:44:56,834 INFO  [Log] X 
+2017-06-01 13:44:56,834 INFO  [Log] X 
+2017-06-01 13:46:16,375 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:46:16,376 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:46:16,376 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-01 13:46:16,376 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:46:16,376 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:46:16,821 INFO  [Log] Excel sheet opened 
+2017-06-01 13:46:16,822 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-06-01 13:46:20,235 INFO  [Log] New driver instantiated 
+2017-06-01 13:46:20,243 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-01 13:46:22,650 INFO  [Log] Web application launched successfully 
+2017-06-01 13:46:23,117 INFO  [Log] Username text box is found on the Login Page 
+2017-06-01 13:46:23,213 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-06-01 13:46:23,222 INFO  [Log] Password text box is found on the Login page 
+2017-06-01 13:46:23,259 INFO  [Log] Wordpress12$ is entered in Password text box 
+2017-06-01 13:46:23,271 INFO  [Log] Submit button is found on the Login page 
+2017-06-01 13:46:23,361 INFO  [Log] Click action is performed on Submit button 
+2017-06-01 13:46:43,406 ERROR [Log] My Acocunt link is not found on the Home Page 
+2017-06-01 13:46:43,683 ERROR [Log] Unable to locate element: .masterbar__item\ masterbar__item\-me\ is\-active
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.YBnT3oru9Gmq, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=6264.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: c3cb85ae-3985-41d3-a62f-7f605bef0dc9
+*** Element info: {Using=class name, value=masterbar__item masterbar__item-me is-active} 
+2017-06-01 13:46:43,686 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-01 13:46:43,686 INFO  [Log] X 
+2017-06-01 13:46:43,686 INFO  [Log] X 
+2017-06-01 13:46:43,686 INFO  [Log] X 
+2017-06-01 13:46:43,686 INFO  [Log] X 
+2017-06-01 13:55:50,623 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:55:50,623 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:55:50,623 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-01 13:55:50,623 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:55:50,623 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:55:51,020 INFO  [Log] Excel sheet opened 
+2017-06-01 13:55:51,020 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-06-01 13:55:54,316 INFO  [Log] New driver instantiated 
+2017-06-01 13:55:54,324 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-01 13:55:57,057 INFO  [Log] Web application launched successfully 
+2017-06-01 13:55:57,493 INFO  [Log] Username text box is found on the Login Page 
+2017-06-01 13:55:57,544 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-06-01 13:55:57,551 INFO  [Log] Password text box is found on the Login page 
+2017-06-01 13:55:57,576 INFO  [Log] Wordpress12$ is entered in Password text box 
+2017-06-01 13:55:57,584 INFO  [Log] Submit button is found on the Login page 
+2017-06-01 13:55:57,667 INFO  [Log] Click action is performed on Submit button 
+2017-06-01 13:56:04,388 INFO  [Log] My Account link is found on the Home Page 
+2017-06-01 13:56:24,484 ERROR [Log] Log Out link is not found on the Home Page 
+2017-06-01 13:56:24,705 ERROR [Log] Unable to locate element: .button\ me\-sidebar__signout\-button\ is\-compact
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.iQQL4BWGYHqi, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=8560.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: d222eed7-226c-4bb9-ba29-41df9cc1d18b
+*** Element info: {Using=class name, value=button me-sidebar__signout-button is-compact} 
+2017-06-01 13:56:24,713 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-01 13:56:24,713 INFO  [Log] X 
+2017-06-01 13:56:24,714 INFO  [Log] X 
+2017-06-01 13:56:24,714 INFO  [Log] X 
+2017-06-01 13:56:24,714 INFO  [Log] X 
+2017-06-01 13:57:15,919 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:57:15,919 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:57:15,920 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-01 13:57:15,920 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:57:15,920 INFO  [Log] **************************************************************************************** 
+2017-06-01 13:57:16,340 INFO  [Log] Excel sheet opened 
+2017-06-01 13:57:16,340 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-06-01 13:57:19,631 INFO  [Log] New driver instantiated 
+2017-06-01 13:57:19,640 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-01 13:57:22,127 INFO  [Log] Web application launched successfully 
+2017-06-01 13:57:22,557 INFO  [Log] Username text box is found on the Login Page 
+2017-06-01 13:57:22,610 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-06-01 13:57:22,617 INFO  [Log] Password text box is found on the Login page 
+2017-06-01 13:57:22,643 INFO  [Log] Wordpress12$ is entered in Password text box 
+2017-06-01 13:57:22,652 INFO  [Log] Submit button is found on the Login page 
+2017-06-01 13:57:22,752 INFO  [Log] Click action is performed on Submit button 
+2017-06-01 13:57:29,554 INFO  [Log] My Account link is found on the Home Page 
+2017-06-01 13:57:30,605 INFO  [Log] Log Out link is found on the Home Page 
+2017-06-01 13:57:30,813 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-01 13:57:30,813 INFO  [Log] X 
+2017-06-01 13:57:30,813 INFO  [Log] X 
+2017-06-01 13:57:30,813 INFO  [Log] X 
+2017-06-01 13:57:30,813 INFO  [Log] X 
+2017-06-01 14:07:02,609 INFO  [Log] **************************************************************************************** 
+2017-06-01 14:07:02,610 INFO  [Log] **************************************************************************************** 
+2017-06-01 14:07:02,610 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-01 14:07:02,610 INFO  [Log] **************************************************************************************** 
+2017-06-01 14:07:02,610 INFO  [Log] **************************************************************************************** 
+2017-06-01 14:07:03,065 INFO  [Log] Excel sheet opened 
+2017-06-01 14:07:03,065 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-06-01 14:07:09,752 INFO  [Log] New driver instantiated 
+2017-06-01 14:07:09,764 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-01 14:07:12,789 INFO  [Log] Web application launched successfully 
+2017-06-01 14:07:13,159 INFO  [Log] Username text box is found on the Login Page 
+2017-06-01 14:07:13,232 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-06-01 14:07:13,240 INFO  [Log] Password text box is found on the Login page 
+2017-06-01 14:07:13,276 INFO  [Log] Wordpress12$ is entered in Password text box 
+2017-06-01 14:07:13,284 INFO  [Log] Submit button is found on the Login page 
+2017-06-01 14:07:13,376 INFO  [Log] Click action is performed on Submit button 
+2017-06-01 14:07:20,866 INFO  [Log] My Account link is found on the Home Page 
+2017-06-01 14:07:21,493 INFO  [Log] Log Out link is found on the Home Page 
+2017-06-01 14:07:21,672 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-01 14:07:21,672 INFO  [Log] X 
+2017-06-01 14:07:21,673 INFO  [Log] X 
+2017-06-01 14:07:21,673 INFO  [Log] X 
+2017-06-01 14:07:21,673 INFO  [Log] X 
+2017-06-20 16:40:17,351 INFO  [Log] **************************************************************************************** 
+2017-06-20 16:40:17,352 INFO  [Log] **************************************************************************************** 
+2017-06-20 16:40:17,353 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-20 16:40:17,353 INFO  [Log] **************************************************************************************** 
+2017-06-20 16:40:17,353 INFO  [Log] **************************************************************************************** 
+2017-06-20 16:40:17,771 INFO  [Log] Excel sheet opened 
+2017-06-20 16:40:17,771 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-06-20 16:40:24,434 INFO  [Log] New driver instantiated 
+2017-06-20 16:40:24,442 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-20 16:40:27,425 INFO  [Log] Web application launched successfully 
+2017-06-20 16:40:27,825 INFO  [Log] Username text box is found on the Login Page 
+2017-06-20 16:40:27,896 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-06-20 16:40:27,903 INFO  [Log] Password text box is found on the Login page 
+2017-06-20 16:40:27,940 INFO  [Log] Wordpress12$ is entered in Password text box 
+2017-06-20 16:40:27,947 INFO  [Log] Submit button is found on the Login page 
+2017-06-20 16:40:28,035 INFO  [Log] Click action is performed on Submit button 
+2017-06-20 16:40:33,170 INFO  [Log] My Account link is found on the Home Page 
+2017-06-20 16:40:34,450 INFO  [Log] Log Out link is found on the Home Page 
+2017-06-20 16:40:34,681 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-20 16:40:34,681 INFO  [Log] X 
+2017-06-20 16:40:34,682 INFO  [Log] X 
+2017-06-20 16:40:34,682 INFO  [Log] X 
+2017-06-20 16:40:34,682 INFO  [Log] X 
+2017-06-20 17:01:15,713 INFO  [Log] **************************************************************************************** 
+2017-06-20 17:01:15,713 INFO  [Log] **************************************************************************************** 
+2017-06-20 17:01:15,713 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-20 17:01:15,713 INFO  [Log] **************************************************************************************** 
+2017-06-20 17:01:15,713 INFO  [Log] **************************************************************************************** 
+2017-06-20 17:01:16,135 INFO  [Log] Excel sheet opened 
+2017-06-20 17:01:16,136 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-06-20 17:01:22,630 INFO  [Log] New driver instantiated 
+2017-06-20 17:01:22,640 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-20 17:01:25,185 INFO  [Log] Web application launched successfully 
+2017-06-20 17:01:25,593 INFO  [Log] Username text box is found on the Login Page 
+2017-06-20 17:01:25,653 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-06-20 17:01:25,659 INFO  [Log] Password text box is found on the Login page 
+2017-06-20 17:01:25,687 INFO  [Log] Wordpress12$ is entered in Password text box 
+2017-06-20 17:01:25,694 INFO  [Log] Submit button is found on the Login page 
+2017-06-20 17:01:25,793 INFO  [Log] Click action is performed on Submit button 
+2017-06-20 17:01:32,186 INFO  [Log] My Account link is found on the Home Page 
+2017-06-20 17:01:33,579 INFO  [Log] Log Out link is found on the Home Page 
+2017-06-20 17:01:33,859 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : Tried to run command without establishing a connection
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'INHYIYC5587', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\yc5587\AppData\Local\Temp\rust_mozprofile.sZciLjbBOJuy, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=6.1, moz:processID=1816.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 637e8cba-4acd-4c7d-addb-4290af10bde2 
+2017-06-20 17:01:33,869 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-20 17:01:33,869 INFO  [Log] X 
+2017-06-20 17:01:33,869 INFO  [Log] X 
+2017-06-20 17:01:33,869 INFO  [Log] X 
+2017-06-20 17:01:33,869 INFO  [Log] X 
+2017-06-20 17:28:00,187 INFO  [Log] **************************************************************************************** 
+2017-06-20 17:28:00,187 INFO  [Log] **************************************************************************************** 
+2017-06-20 17:28:00,187 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-20 17:28:00,187 INFO  [Log] **************************************************************************************** 
+2017-06-20 17:28:00,187 INFO  [Log] **************************************************************************************** 
+2017-06-20 17:28:00,587 INFO  [Log] Excel sheet opened 
+2017-06-20 17:28:00,587 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-06-20 17:28:05,995 INFO  [Log] New driver instantiated 
+2017-06-20 17:28:06,003 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-20 17:28:08,643 INFO  [Log] Web application launched successfully 
+2017-06-20 17:28:09,068 INFO  [Log] Username text box is found on the Login Page 
+2017-06-20 17:28:09,126 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-06-20 17:28:09,133 INFO  [Log] Password text box is found on the Login page 
+2017-06-20 17:28:09,160 INFO  [Log] Wordpress12$ is entered in Password text box 
+2017-06-20 17:28:09,166 INFO  [Log] Submit button is found on the Login page 
+2017-06-20 17:28:09,243 INFO  [Log] Click action is performed on Submit button 
+2017-06-20 17:28:16,286 INFO  [Log] My Account link is found on the Home Page 
+2017-06-20 17:28:17,268 INFO  [Log] Log Out link is found on the Home Page 
+2017-06-20 17:28:17,466 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-20 17:28:17,466 INFO  [Log] X 
+2017-06-20 17:28:17,466 INFO  [Log] X 
+2017-06-20 17:28:17,466 INFO  [Log] X 
+2017-06-20 17:28:17,466 INFO  [Log] X 
+2017-06-20 17:30:48,161 INFO  [Log] **************************************************************************************** 
+2017-06-20 17:30:48,161 INFO  [Log] **************************************************************************************** 
+2017-06-20 17:30:48,161 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-06-20 17:30:48,161 INFO  [Log] **************************************************************************************** 
+2017-06-20 17:30:48,161 INFO  [Log] **************************************************************************************** 
+2017-06-20 17:30:48,542 INFO  [Log] Excel sheet opened 
+2017-06-20 17:30:48,542 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-06-20 17:30:51,841 INFO  [Log] New driver instantiated 
+2017-06-20 17:30:51,850 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-06-20 17:30:54,695 INFO  [Log] Web application launched successfully 
+2017-06-20 17:30:55,112 INFO  [Log] Username text box is found on the Login Page 
+2017-06-20 17:30:55,179 INFO  [Log] yaminikanthch@gmail.com is entered in UserName text box 
+2017-06-20 17:30:55,186 INFO  [Log] Password text box is found on the Login page 
+2017-06-20 17:30:55,215 INFO  [Log] Wordpress12$ is entered in Password text box 
+2017-06-20 17:30:55,225 INFO  [Log] Submit button is found on the Login page 
+2017-06-20 17:30:55,321 INFO  [Log] Click action is performed on Submit button 
+2017-06-20 17:31:00,098 INFO  [Log] My Account link is found on the Home Page 
+2017-06-20 17:31:00,877 INFO  [Log] Log Out link is found on the Home Page 
+2017-06-20 17:31:01,094 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-06-20 17:31:01,094 INFO  [Log] X 
+2017-06-20 17:31:01,095 INFO  [Log] X 
+2017-06-20 17:31:01,095 INFO  [Log] X 
+2017-06-20 17:31:01,095 INFO  [Log] X 

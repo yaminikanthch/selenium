@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[User Name has been validated]]>
+    </line>
+    <line>
+      <![CDATA[Password has been validated]]>
+    </line>
+    <line>
+      <![CDATA[SignIn Action is successfully perfomred]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13091" started-at="2017-06-20T12:00:48Z" finished-at="2017-06-20T12:01:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13091" started-at="2017-06-20T12:00:48Z" finished-at="2017-06-20T12:01:01Z">
+      <class name="testCases.Framework_001">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testCases.Framework_001@46d56d67]" name="beforeMethod" is-config="true" duration-ms="7076" started-at="2017-06-20T17:30:48Z" finished-at="2017-06-20T17:30:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:testCases.Framework_001@46d56d67]" name="main" duration-ms="6001" started-at="2017-06-20T17:30:55Z" finished-at="2017-06-20T17:31:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[User Name has been validated]]>
+            </line>
+            <line>
+              <![CDATA[Password has been validated]]>
+            </line>
+            <line>
+              <![CDATA[SignIn Action is successfully perfomred]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testCases.Framework_001@46d56d67]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-06-20T17:31:01Z" finished-at="2017-06-20T17:31:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testCases.Framework_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
